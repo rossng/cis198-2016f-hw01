@@ -1,0 +1,6 @@
+[package]
+name = "cis198-2016f-hw01"
+version = "0.1.0"
+authors = ["Ross Gardiner <ross-public@gmx.com>"]
+
+[dependencies]
